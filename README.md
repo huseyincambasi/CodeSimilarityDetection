@@ -1,2 +1,6 @@
 # Code-Similarity-Detection
-Code Similarity Score Using Neighbor Matching Algorithm
+Code Similarity score measurement using Neighbor Matching graph similarity algorithm. Basic usage can be seen inside files.
+
+Require
+================
+- JavaParser
