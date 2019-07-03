@@ -1,5 +1,5 @@
 package ytu.senior.similarityalgorithm;
-
+// Revised Version of => https://wadsashika.wordpress.com/2014/09/19/measuring-graph-similarity-using-neighbor-matching/
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
 import java.util.ArrayList;
